@@ -1,12 +1,7 @@
 ﻿#include <iostream>
 #include <string>
-//#include <windows.h>
 #include <io.h>
 #include <fcntl.h>
-//#include <exception>
-//#include <stdio.h>  
-//#include <math.h>
-//#include <ctype.h>
 #include <iomanip>
 
 using namespace std;
